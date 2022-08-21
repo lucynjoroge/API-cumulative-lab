@@ -471,3 +471,4 @@ yelp_map
 ## Summary
 
 Nice work! In this lab, you've made multiple API calls to Yelp in order to paginate through a results set, performing some basic exploratory analysis and then creating a nice interactive map to display the results using Folium! Well done!
+# API-cumulative-lab
